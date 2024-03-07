@@ -1,4 +1,4 @@
-![git guilty](https://github.com/JojorioCh/git-merge-demo/assets/122324265/32d390ad-c7d8-4678-a4e2-3a08ff48e507)﻿# git-merge-demo
+﻿# git-merge-demo
 
 ### TIME FOR SOME GIT 😁
 
